@@ -1,4 +1,4 @@
-[{"id":1,"user":"Saundra","temperature":41.4,"datetime":"2022-09-04T16:11:21Z","medicine":"Hydrochlorothiazide","dosage":0.15,"dosage_unit":4.92},
+{ fever: [{"id":1,"user":"Saundra","temperature":41.4,"datetime":"2022-09-04T16:11:21Z","medicine":"Hydrochlorothiazide","dosage":0.15,"dosage_unit":4.92},
 {"id":2,"user":"Cristy","temperature":38.6,"datetime":"2022-05-26T18:16:41Z","medicine":"COMBIVIR","dosage":4.99,"dosage_unit":7.33},
 {"id":3,"user":"Kelcie","temperature":40.9,"datetime":"2022-07-25T12:02:12Z","medicine":"Heparin Sodium","dosage":2.71,"dosage_unit":9.13},
 {"id":4,"user":"Ophelie","temperature":40.1,"datetime":"2020-03-29T08:00:48Z","medicine":"Thyroid Rhythm","dosage":9.02,"dosage_unit":2.03},
@@ -198,3 +198,4 @@
 {"id":198,"user":"Brittni","temperature":41.4,"datetime":"2020-04-24T12:57:07Z","medicine":"Sudden Change Intensive Restoration Daily Moisturizer SPF 15","dosage":1.16,"dosage_unit":9.01},
 {"id":199,"user":"Burnard","temperature":38.4,"datetime":"2021-03-21T22:58:43Z","medicine":"ICV Toxi Formula","dosage":0.97,"dosage_unit":3.78},
 {"id":200,"user":"Sofie","temperature":38.5,"datetime":"2020-08-24T07:21:19Z","medicine":"Mucus Relief DM","dosage":4.58,"dosage_unit":5.22}]
+}
